@@ -17,6 +17,9 @@ Một tiện ích mở rộng dành cho trang [giaitoan.byethost17.com](https://
    - Nhấn nút để bắt đầu cập nhật điểm số theo thời gian thực  
    - Gọi hàm `showDiemSo()` để tính điểm từ các phần đã làm
 
+## ScreenShot
+<br/><img src="https://raw.githubusercontent.com/0hoanglong/tool-h4ck-giaitoan-byethost17-com/refs/heads/main/ScreenShot/ScreenShot_20250922124919.jpeg">
+
 ## 📦 Cài đặt
 
 ### Chrome/Edge
